@@ -1,4 +1,4 @@
-# Generative-AI
+# Generative-AI-Text to Image using Stable Diffusion
 This repository contains a web application built with Streamlit that utilizes Stable Diffusion models from Hugging Face's diffusers library to generate images from textual descriptions. The app allows users to select different models and input their own descriptions to see the generated images.
 
  # Features
